@@ -5,3 +5,5 @@ print(f'Hi, my name is {name} and I am {age} years old. On the {birthday} I will
 print(2 + 3)
 print("HI")
 print(5**6)
+import numpy as np
+print(np.sin(np.pi / 4))
