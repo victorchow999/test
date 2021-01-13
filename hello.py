@@ -7,3 +7,7 @@ print("HI")
 print(5**6)
 print('Hello World!')
 print(3 - 2)
+
+import sys
+
+print(sys.version)
