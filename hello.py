@@ -11,3 +11,6 @@ print(3 - 2)
 import sys
 
 print(sys.version)
+
+import numpy as np
+print(np.sin(np.pi / 4))
